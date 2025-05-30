@@ -12,8 +12,8 @@
     "https://bcr.bazel.build/modules/abseil-cpp/20240116.1/source.json": "9be551b8d4e3ef76875c0d744b5d6a504a27e3ae67bc6b28f46415fd2d2957da",
     "https://bcr.bazel.build/modules/aspect_bazel_lib/2.16.0/MODULE.bazel": "852f9ebbda017572a7c113a2434592dd3b2f55cd9a0faea3d4be5a09a59e4900",
     "https://bcr.bazel.build/modules/aspect_bazel_lib/2.16.0/source.json": "87ffed720a2ba7cfe209d9ccc1be59e21ec3d434124ec126ab90e5913e9cb13b",
-    "https://bcr.bazel.build/modules/aspect_rules_py/1.4.0/MODULE.bazel": "6fd29b93207a31445d5d3ab9d9882fd5511e43c95e8e82e7492872663720fd44",
-    "https://bcr.bazel.build/modules/aspect_rules_py/1.4.0/source.json": "fb1ba946478fb6dbb26d49307d756b0fd2ff88be339af23c39c0397d59143d2c",
+    "https://bcr.bazel.build/modules/aspect_rules_py/1.5.0/MODULE.bazel": "72e814f41446a695919eb0927214871923094d1f78f0855616b28ea152cb2b85",
+    "https://bcr.bazel.build/modules/aspect_rules_py/1.5.0/source.json": "98df6675ea3c5393e9341e34191b64976d1266c2bc82703f05b0fffd31f0ccf5",
     "https://bcr.bazel.build/modules/bazel_features/1.1.1/MODULE.bazel": "27b8c79ef57efe08efccbd9dd6ef70d61b4798320b8d3c134fd571f78963dbcd",
     "https://bcr.bazel.build/modules/bazel_features/1.11.0/MODULE.bazel": "f9382337dd5a474c3b7d334c2f83e50b6eaedc284253334cf823044a26de03e8",
     "https://bcr.bazel.build/modules/bazel_features/1.15.0/MODULE.bazel": "d38ff6e517149dc509406aca0db3ad1efdd890a85e049585b7234d04238e2a4d",
@@ -145,8 +145,8 @@
   "moduleExtensions": {
     "@@aspect_rules_py+//py:extensions.bzl%py_tools": {
       "general": {
-        "bzlTransitiveDigest": "c7Xe8Jt47e8g6KjrYFu3593xtmdtMhbDM9fv7Q5lVYs=",
-        "usagesDigest": "NC1b49l5tenTBVWEUGzzC0j5Kg1GH+l5lBw5JRCldIU=",
+        "bzlTransitiveDigest": "JFm+R1ZO6+J8FSS+mNHYBDMHaxKhs11Rfs0sFt5bwRg=",
+        "usagesDigest": "7nwsw2xNc/6YR/PCx9tvqSCPwU1Li5r+Eb5wfz+3j/A=",
         "recordedFileInputs": {},
         "recordedDirentsInputs": {},
         "envVariables": {},
